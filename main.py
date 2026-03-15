@@ -139,7 +139,7 @@ class Slist:
     def __repr__(self):
       return(str(self.numbers))
 
-        
+"""        
 instance = Slist(1, 2, 3, 4, 5)
 instance2 = Slist(1, 1, 1, 1, 1)
 
@@ -179,3 +179,4 @@ print(instance % instance2)
 print(0 ** instance2)
 print(instance2 ** 0)
 print(instance ** instance2)
+"""
